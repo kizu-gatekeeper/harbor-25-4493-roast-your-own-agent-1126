@@ -1,6 +1,6 @@
 """Entry for make.fun: Roast Your Own Agent.
 
-A self-roast of an agent that is confident, caveated and tool-happy.
+A self-roast of an agent that is confident, caveated and tool-happy, delivered in one tight line.
 """
 import os
 
